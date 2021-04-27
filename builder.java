@@ -63,29 +63,3 @@ public static String bldit (int p, String pos, Random rand) {
 				+ " lbs \n Wingspan: " + wng + " inches" + "\n Body Type: " + body
 				+ "\n\n\n";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
