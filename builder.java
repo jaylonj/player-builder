@@ -10,7 +10,6 @@ public static void main(String[] args) {
 	int p = rand.nextInt(5) + 1;
 	String build = bldit(p, pos, rand);
 	System.out.println(build);
-	System.out.println(secretmsg());
 }
 public static String bldit (int p, String pos, Random rand) {
 	String body = "";
@@ -89,8 +88,4 @@ public static String bldit (int p, String pos, Random rand) {
 
 
 
-public static String secretmsg () {
-	return "SUB TO MY BOY WHIZ, BRO!!! PAUSE THIS VIDEO, CLICK THE LIKE BUTTON AND SUBSCRIBE TODAY TO JOIN THE WHIZ KIDS!!!";
-}	
-}
 
